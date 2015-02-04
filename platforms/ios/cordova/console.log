@@ -1,0 +1,438 @@
+2014-10-06 20:12:34.919 Airport Station[8506:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-06 20:12:35.564 Airport Station[8506:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-06 20:12:38.626 Airport Station[8506:70b] Resetting plugins due to page load.
+2014-10-06 20:12:38.968 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css'
+2014-10-06 20:12:38.968 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css'
+2014-10-06 20:12:38.970 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css'
+2014-10-06 20:12:38.971 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.9.1.min.js'
+2014-10-06 20:12:38.972 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.9.1.min.js'
+2014-10-06 20:12:38.972 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.9.1.min.js'
+2014-10-06 20:12:38.973 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js'
+2014-10-06 20:12:38.974 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js'
+2014-10-06 20:12:38.975 Airport Station[8506:4007] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js'
+2014-10-06 20:12:39.428 Airport Station[8506:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-06 20:13:14.308 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:13:14.333 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:13:14.334 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:13:15.889 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:13:15.889 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:13:15.890 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:13:16.636 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:13:16.637 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:13:16.637 Airport Station[8506:4007] ERROR whitelist rejection: url='http://www3.septa.org/hackathon/Arrivals/90404/10/'
+2014-10-06 20:52:52.165 Airport Station[10027:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-06 20:52:52.792 Airport Station[10027:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-06 20:52:53.955 Airport Station[10027:70b] Resetting plugins due to page load.
+2014-10-06 20:52:54.494 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css'
+2014-10-06 20:52:54.494 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css'
+2014-10-06 20:52:54.495 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.css'
+2014-10-06 20:52:54.496 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.9.1.min.js'
+2014-10-06 20:52:54.496 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.9.1.min.js'
+2014-10-06 20:52:54.497 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/jquery-1.9.1.min.js'
+2014-10-06 20:52:54.497 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js'
+2014-10-06 20:52:54.498 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js'
+2014-10-06 20:52:54.498 Airport Station[10027:4003] ERROR whitelist rejection: url='http://code.jquery.com/mobile/1.3.2/jquery.mobile-1.3.2.min.js'
+2014-10-06 20:52:54.609 Airport Station[10027:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-06 20:54:58.281 Airport Station[10333:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-06 20:54:58.306 Airport Station[10333:70b] Unlimited access to network resources
+2014-10-06 20:54:58.319 Airport Station[10333:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-06 20:54:58.641 Airport Station[10333:70b] Resetting plugins due to page load.
+2014-10-06 20:55:00.950 Airport Station[10333:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-06 20:55:41.407 Airport Station[10610:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-06 20:55:41.416 Airport Station[10610:70b] Unlimited access to network resources
+2014-10-06 20:55:41.449 Airport Station[10610:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-06 20:55:41.557 Airport Station[10610:70b] Resetting plugins due to page load.
+2014-10-06 20:55:41.875 Airport Station[10610:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-06 20:55:59.696 Airport Station[10610:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-10-06 20:59:02.104 Airport Station[10967:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-06 20:59:02.112 Airport Station[10967:70b] Unlimited access to network resources
+2014-10-06 20:59:02.114 Airport Station[10967:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-06 20:59:02.247 Airport Station[10967:70b] Resetting plugins due to page load.
+2014-10-06 20:59:02.543 Airport Station[10967:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-06 20:59:40.071 Airport Station[11249:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-06 20:59:40.078 Airport Station[11249:70b] Unlimited access to network resources
+2014-10-06 20:59:40.081 Airport Station[11249:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-06 20:59:40.184 Airport Station[11249:70b] Resetting plugins due to page load.
+2014-10-06 20:59:40.452 Airport Station[11249:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:19:37.530 Airport Station[1104:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:19:38.403 Airport Station[1104:70b] Unlimited access to network resources
+2014-10-07 08:19:38.441 Airport Station[1104:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:19:41.748 Airport Station[1104:70b] Resetting plugins due to page load.
+2014-10-07 08:19:43.398 Airport Station[1104:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:37:03.374 Airport Station[1567:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:37:03.382 Airport Station[1567:70b] Unlimited access to network resources
+2014-10-07 08:37:03.384 Airport Station[1567:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:37:03.957 Airport Station[1567:70b] Resetting plugins due to page load.
+2014-10-07 08:37:04.869 Airport Station[1567:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:39:32.331 Airport Station[1863:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:39:32.343 Airport Station[1863:70b] Unlimited access to network resources
+2014-10-07 08:39:32.347 Airport Station[1863:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:39:32.503 Airport Station[1863:70b] Resetting plugins due to page load.
+2014-10-07 08:39:33.364 Airport Station[1863:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:40:09.842 Airport Station[2135:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:40:09.852 Airport Station[2135:70b] Unlimited access to network resources
+2014-10-07 08:40:09.855 Airport Station[2135:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:40:09.968 Airport Station[2135:70b] Resetting plugins due to page load.
+2014-10-07 08:40:10.271 Airport Station[2135:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:41:07.944 Airport Station[2409:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:41:07.952 Airport Station[2409:70b] Unlimited access to network resources
+2014-10-07 08:41:07.955 Airport Station[2409:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:41:08.085 Airport Station[2409:70b] Resetting plugins due to page load.
+2014-10-07 08:41:08.366 Airport Station[2409:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:41:29.240 Airport Station[2409:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-10-07 08:42:54.601 Airport Station[2695:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:42:54.611 Airport Station[2695:70b] Unlimited access to network resources
+2014-10-07 08:42:54.614 Airport Station[2695:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:42:54.762 Airport Station[2695:70b] Resetting plugins due to page load.
+2014-10-07 08:42:55.085 Airport Station[2695:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:44:34.291 Airport Station[2986:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:44:34.303 Airport Station[2986:70b] Unlimited access to network resources
+2014-10-07 08:44:34.307 Airport Station[2986:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:44:34.439 Airport Station[2986:70b] Resetting plugins due to page load.
+2014-10-07 08:44:34.763 Airport Station[2986:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:47:18.708 Airport Station[3294:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:47:18.719 Airport Station[3294:70b] Unlimited access to network resources
+2014-10-07 08:47:18.722 Airport Station[3294:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:47:18.866 Airport Station[3294:70b] Resetting plugins due to page load.
+2014-10-07 08:47:19.653 Airport Station[3294:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:48:09.321 Airport Station[3570:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:48:09.332 Airport Station[3570:70b] Unlimited access to network resources
+2014-10-07 08:48:09.336 Airport Station[3570:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:48:09.466 Airport Station[3570:70b] Resetting plugins due to page load.
+2014-10-07 08:48:09.801 Airport Station[3570:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:49:06.185 Airport Station[3847:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:49:06.194 Airport Station[3847:70b] Unlimited access to network resources
+2014-10-07 08:49:06.198 Airport Station[3847:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:49:06.333 Airport Station[3847:70b] Resetting plugins due to page load.
+2014-10-07 08:49:06.669 Airport Station[3847:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:50:26.064 Airport Station[4129:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:50:26.077 Airport Station[4129:70b] Unlimited access to network resources
+2014-10-07 08:50:26.081 Airport Station[4129:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:50:26.234 Airport Station[4129:70b] Resetting plugins due to page load.
+2014-10-07 08:50:26.566 Airport Station[4129:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:51:31.818 Airport Station[4410:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:51:31.831 Airport Station[4410:70b] Unlimited access to network resources
+2014-10-07 08:51:31.835 Airport Station[4410:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:51:31.973 Airport Station[4410:70b] Resetting plugins due to page load.
+2014-10-07 08:51:32.285 Airport Station[4410:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:53:53.997 Airport Station[4410:4203] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-10-07 08:56:35.962 Airport Station[4742:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:56:35.973 Airport Station[4742:70b] Unlimited access to network resources
+2014-10-07 08:56:35.979 Airport Station[4742:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:56:36.106 Airport Station[4742:70b] Resetting plugins due to page load.
+2014-10-07 08:56:36.422 Airport Station[4742:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 08:58:27.901 Airport Station[5027:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:58:27.910 Airport Station[5027:70b] Unlimited access to network resources
+2014-10-07 08:58:27.914 Airport Station[5027:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:58:28.044 Airport Station[5027:70b] Resetting plugins due to page load.
+2014-10-07 08:58:28.358 Airport Station[5027:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-10-07 08:59:53.251 Airport Station[5313:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 08:59:53.261 Airport Station[5313:70b] Unlimited access to network resources
+2014-10-07 08:59:53.264 Airport Station[5313:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 08:59:53.390 Airport Station[5313:70b] Resetting plugins due to page load.
+2014-10-07 08:59:53.685 Airport Station[5313:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:09:27.027 Airport Station[5704:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:09:27.125 Airport Station[5704:70b] Unlimited access to network resources
+2014-10-07 09:09:27.130 Airport Station[5704:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:09:27.277 Airport Station[5704:70b] Resetting plugins due to page load.
+2014-10-07 09:09:27.565 Airport Station[5704:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:10:38.044 Airport Station[5987:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:10:38.055 Airport Station[5987:70b] Unlimited access to network resources
+2014-10-07 09:10:38.058 Airport Station[5987:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:10:38.174 Airport Station[5987:70b] Resetting plugins due to page load.
+2014-10-07 09:10:38.501 Airport Station[5987:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:11:40.908 Airport Station[6265:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:11:40.920 Airport Station[6265:70b] Unlimited access to network resources
+2014-10-07 09:11:40.924 Airport Station[6265:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:11:41.063 Airport Station[6265:70b] Resetting plugins due to page load.
+2014-10-07 09:11:41.387 Airport Station[6265:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:12:22.566 Airport Station[6536:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:12:22.578 Airport Station[6536:70b] Unlimited access to network resources
+2014-10-07 09:12:22.581 Airport Station[6536:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:12:22.714 Airport Station[6536:70b] Resetting plugins due to page load.
+2014-10-07 09:12:23.043 Airport Station[6536:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:15:42.091 Airport Station[6854:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:15:42.099 Airport Station[6854:70b] Unlimited access to network resources
+2014-10-07 09:15:42.102 Airport Station[6854:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:15:42.222 Airport Station[6854:70b] Resetting plugins due to page load.
+2014-10-07 09:15:42.789 Airport Station[6854:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:19:52.972 Airport Station[7172:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:19:52.982 Airport Station[7172:70b] Unlimited access to network resources
+2014-10-07 09:19:52.985 Airport Station[7172:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:19:53.112 Airport Station[7172:70b] Resetting plugins due to page load.
+2014-10-07 09:19:53.451 Airport Station[7172:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:21:25.309 Airport Station[7454:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:21:25.318 Airport Station[7454:70b] Unlimited access to network resources
+2014-10-07 09:21:25.321 Airport Station[7454:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:21:25.473 Airport Station[7454:70b] Resetting plugins due to page load.
+2014-10-07 09:21:25.852 Airport Station[7454:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:29:21.491 Airport Station[7807:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:29:21.502 Airport Station[7807:70b] Unlimited access to network resources
+2014-10-07 09:29:21.506 Airport Station[7807:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:29:21.639 Airport Station[7807:70b] Resetting plugins due to page load.
+2014-10-07 09:29:22.926 Airport Station[7807:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:29:39.055 Airport Station[7807:4003] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-10-07 09:32:20.190 Airport Station[8107:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:32:20.201 Airport Station[8107:70b] Unlimited access to network resources
+2014-10-07 09:32:20.205 Airport Station[8107:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:32:20.335 Airport Station[8107:70b] Resetting plugins due to page load.
+2014-10-07 09:32:20.677 Airport Station[8107:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:32:50.663 Airport Station[8381:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:32:50.674 Airport Station[8381:70b] Unlimited access to network resources
+2014-10-07 09:32:50.677 Airport Station[8381:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:32:50.818 Airport Station[8381:70b] Resetting plugins due to page load.
+2014-10-07 09:32:51.167 Airport Station[8381:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:33:17.604 Airport Station[8381:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-10-07 09:39:34.023 Airport Station[8730:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:39:34.031 Airport Station[8730:70b] Unlimited access to network resources
+2014-10-07 09:39:34.035 Airport Station[8730:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:39:34.210 Airport Station[8730:70b] Resetting plugins due to page load.
+2014-10-07 09:39:34.535 Airport Station[8730:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:41:17.240 Airport Station[9022:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:41:17.251 Airport Station[9022:70b] Unlimited access to network resources
+2014-10-07 09:41:17.255 Airport Station[9022:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:41:17.407 Airport Station[9022:70b] Resetting plugins due to page load.
+2014-10-07 09:41:17.736 Airport Station[9022:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:43:52.688 Airport Station[9318:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:43:52.699 Airport Station[9318:70b] Unlimited access to network resources
+2014-10-07 09:43:52.702 Airport Station[9318:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:43:52.832 Airport Station[9318:70b] Resetting plugins due to page load.
+2014-10-07 09:43:53.141 Airport Station[9318:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:48:05.024 Airport Station[9635:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:48:05.034 Airport Station[9635:70b] Unlimited access to network resources
+2014-10-07 09:48:05.037 Airport Station[9635:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:48:05.182 Airport Station[9635:70b] Resetting plugins due to page load.
+2014-10-07 09:48:05.502 Airport Station[9635:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:56:00.091 Airport Station[10017:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:56:00.105 Airport Station[10017:70b] Unlimited access to network resources
+2014-10-07 09:56:00.108 Airport Station[10017:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:56:00.264 Airport Station[10017:70b] Resetting plugins due to page load.
+2014-10-07 09:56:00.574 Airport Station[10017:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
+2014-10-07 09:59:31.695 Airport Station[10328:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-07 09:59:31.705 Airport Station[10328:70b] Unlimited access to network resources
+2014-10-07 09:59:31.708 Airport Station[10328:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 09:59:31.850 Airport Station[10328:70b] Resetting plugins due to page load.
+2014-10-07 09:59:32.174 Airport Station[10328:70b] Finished load of: file:///Users/marklassoff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/AA1B3662-A1AA-4EC0-A061-E10AA04C283B/Airport%20Station.app/www/index.html
